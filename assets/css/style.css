@@ -51,3 +51,11 @@ html, body {
 section {
     width: 100%;
 }
+
+#p1 {
+    display: block;
+}
+
+#p2 {
+    display: block;
+}
