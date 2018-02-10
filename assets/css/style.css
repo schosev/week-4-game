@@ -23,7 +23,7 @@ html, body {
 }
 
 #top-selection {
-    height: 140px;
+    /*height: 140px;*/
 }
 
 .section-class {
@@ -52,10 +52,6 @@ section {
     width: 100%;
 }
 
-#p1 {
-    display: block;
-}
-
-#p2 {
-    display: block;
+p {
+    width: 100%;
 }
