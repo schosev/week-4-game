@@ -16,7 +16,7 @@ $(document).ready(function() {
     var kenobi = {
         name: "Obi-Wan Kenobi",
         health: 120,
-        attack: 6,
+        attack: 9,
         counterAttack: 12,
         isClicked: false,
     }
@@ -24,15 +24,15 @@ $(document).ready(function() {
     var skywalker = {
         name: "Luke Skywalker",
         health: 140,
-        attack: 12,
-        counterAttack: 4,
+        attack: 6,
+        counterAttack: 18,
         isClicked: false,
     }
 
     var vader = {
         name: "Darth Vader",
         health: 100,
-        attack: 8,
+        attack: 9,
         counterAttack: 24,
         isClicked: false,
     }
@@ -40,8 +40,8 @@ $(document).ready(function() {
     var maul = {
         name: "Darth Maul",
         health: 160,
-        attack: 10,
-        counterAttack: 8,
+        attack: 6,
+        counterAttack: 15,
         isClicked: false,
     }
 

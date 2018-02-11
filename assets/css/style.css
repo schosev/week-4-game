@@ -18,16 +18,20 @@ html, body {
     clear: both;
 }
 
-.title {
-    font-size: 30px;
+#head-box {
+    /*width: 70%;
+    float: left;*/
 }
 
-#top-selection {
-    /*height: 140px;*/
+.title {
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
 }
 
 .section-class {
     font-size: 20px;
+    margin-top: 15px;
 }
 
 .char-div {
